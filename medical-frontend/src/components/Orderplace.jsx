@@ -19,7 +19,7 @@ const handleChange = (e) => {
     e.preventDefault();
   
   try {
-    const response = await fetch("http://localhost:3000/order", {
+    const response = await fetch("https://medical-project-practice-1.onrender.com/order", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(order),

@@ -10,7 +10,7 @@ const Product = () => {
   const navigate = useNavigate()
 
   const fetchproducts = async() => {
-    const res = await axios.get("http://localhost:5000/products")
+    const res = await axios.get("https://medical-project-practice.onrender.com/products")
    
     setProducts(res.data)
   }
