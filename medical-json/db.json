@@ -1,0 +1,13 @@
+{
+    "products": [
+      { "id": 1, "name": "Oxygen Cylinder", "description": "High-quality oxygen cylinder", "price": "₹5000" },
+      { "id": 2, "name": "Medical Valve", "description": "Durable and reliable valve", "price": "₹1200" },
+      { "id": 3, "name": "Surgical Mask", "description": "Protective 3-layer masks", "price": "₹300" },
+      { "id": 4, "name": "Digital Thermometer", "description": "Fast and accurate reading", "price": "₹800" },
+      { "id": 5, "name": "Blood Pressure Monitor", "description": "Automatic upper arm monitor", "price": "₹2200" },
+      { "id": 6, "name": "Medical Gloves", "description": "Latex-free disposable gloves", "price": "₹500" },
+      { "id": 7, "name": "Stethoscope", "description": "High acoustic sensitivity", "price": "₹1500" },
+      { "id": 8, "name": "Nebulizer Machine", "description": "Portable and effective", "price": "₹2500" }
+    ]
+  }
+  
