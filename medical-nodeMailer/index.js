@@ -53,34 +53,3 @@ app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
 
-// rohitdev000111@gmail.com
-
-
-
-
-
-// const nodemailer = require("nodemailer");
-// console.log("scripted started ,again new")
-
-// const transporter = nodemailer.createTransport({
-//   service: "gmail",
-//   auth: {
-//     user: "ronaldobravo0001@gmail.com",
-//     pass: "vfdm qsab ispx hhhi",
-//   },
-// });
-
-// const mailOptions = {
-//   from: "Your Name <ronaldobravo0001@gmail.com>",
-//   to: "ronaldobravo0001@gmail.com",
-//   subject: "Testing SMTP",
-//   text: "This is a test email again",
-// };
-
-// transporter.sendMail(mailOptions, (err, info) => {
-//   if (err) {
-//     console.error("❌ Email Error:", err);
-//   } else {
-//     console.log("✅ Email sent:", info.response);
-//   }
-// });
